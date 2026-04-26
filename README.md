@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, soy Paul Ferreyra Jaime</h1>
+<h1 align="center">Hola 👋, soy Paul Ferreyra Jaime</h1>
 <h3 align="center">Apasionado en desarrollo web y programacion</h3>
 
 <h3 align="left">Connect with me:</h3>
